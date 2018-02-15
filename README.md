@@ -1,4 +1,4 @@
-# PHPJasper - Laravel Version 5.5.*
+# PHPJasper - Laravel Version 5.4 / 5.5
 _A PHP Report Generator integrated with Laravel Framework_
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/geekcom/phpjasper/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/geekcom/phpjasper/?branch=master)
@@ -41,7 +41,7 @@ It is recommended using [Jaspersoft Studio](http://community.jaspersoft.com/proj
 ## Requirements
 
 * PHP 7.0 or above
-* Laravel 5.5.* or above
+* Laravel 5.4 or 5.5
 * Java JDK 1.8
 
 ## Optional

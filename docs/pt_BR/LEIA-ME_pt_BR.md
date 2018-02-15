@@ -1,4 +1,4 @@
-# PHPJasper - Versão Laravel 5.5 em diante
+# PHPJasper - Versão Laravel 5.4 / 5.5
 
 _Gerador de relatórios PHP integrado com Laravel_
 
@@ -42,7 +42,7 @@ Apresento para vocês **JasperReports** a melhor solução open source que exist
 ## Requisitos
 
 * PHP 7.0 em diante
-* Laravel 5.5.* em diante
+* Laravel 5.4 ou 5.5
 * Java JDK 1.8
 
 ## Opcional
