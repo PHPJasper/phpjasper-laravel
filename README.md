@@ -7,7 +7,7 @@ _A PHP Report Generator integrated with Laravel Framework_
 [![License](https://poser.pugx.org/geekcom/phpjasper/license)](https://packagist.org/packages/geekcom/phpjasper)
 
 ### Docs
-[![Language-pt_BR](https://img.shields.io/badge/pt__BR-100%25-green.svg)](https://github.com/PHPJasper/phpjasper/blob/master/docs/pt_BR/LEIA-ME_pt_BR.md)
+[![Language-pt_BR](https://github.com/PHPJasper/phpjasper-laravel/blob/master/docs/pt_BR/LEIA-ME_pt_BR.md)
 
 ### About
 PHPJasper is the best solution to compile and process JasperReports (.jrxml & .jasper files) just using PHP, in short: to generate reports using PHP.
