@@ -82,14 +82,14 @@ Now run the `javac -version` again and check if the output is ok.
 
 Install [Composer](http://getcomposer.org) if you don't have it.
 ```
-composer require geekcom/phpjasper
+composer require geekcom/phpjasper-laravel
 ```
 Or in your file'composer.json' add:
 
 ```json
 {
     "require": {
-        "geekcom/phpjasper": "^2.4"
+        "geekcom/phpjasper-laravel": "^1.0"
     }
 }
 ```
