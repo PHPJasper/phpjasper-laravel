@@ -1,4 +1,4 @@
-# PHPJasper - Laravel Version 5.4 / 5.5
+# [DEPRECATED] PHPJasper - Laravel Version 5.4 / 5.5
 _A PHP Report Generator integrated with Laravel Framework_
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/geekcom/phpjasper/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/geekcom/phpjasper/?branch=master)
